@@ -15,20 +15,19 @@ Using software engineering, AI, and marketing skills to create impactful solutio
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    programming: [
-        'JavaScript', 'Python', 'SQL', 'R', 'LangChain', 'jQuery', 'HTML/CSS/JavaScript', 'C', 'Java'
+    programming: ['JavaScript', 'Python', 'SQL', 'R', 'LangChain', 'jQuery', 'HTML/CSS/JavaScript', 'C', 'Java'
     ],
-    Data Analysis: [
-        'Pandas', 'NumPy', 'Matplotlib',  'Seaborn', 'Tableau', 'Excel', 'Google Analytics'
+    dataAnalysis: ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Tableau', 'Excel', 'Google Analytics'
     ],
-    frameworks: [  'Flask' 'Bootstrap', 'Jinja2 Template Engine' ],
+    frameworks: ['Flask', 'Bootstrap', 'Jinja2 Template Engine'
+    ],
     marketing: [
+        '2 years of business operations generating $50,000+ in 2024',
         'Social Media Marketing strategies that drove 40 million views',
         'Professional e-commerce website optimization (UI/UX, copy, and offers) to increase AOV by $12 across 1,300+ orders',
         'Email marketing flows and campaign optimization'
     ]
 };
-```
 ## 🎖️ Leadership & Achievements
 
 ### Entrepreneurial Success
