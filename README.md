@@ -31,12 +31,51 @@ const skills = {
 ```
 
 ### 🎖️ Entrepreneurial Success
+
 - Built and scaled a **5-figure e-commerce brand**, generating **$50,000+ in revenue in 2024**.
 - Achieved over **40 million views** in 2024, learning to scale and optimize brand performance.
 - Operated independently with **no capital support**, leveraging a university scholarship earned as a **top 0.02% YKS percentile achiever**.
 - Dedicated over **1,000 hours** to achieving academic and entrepreneurial milestones.
+---
 
+### 🎖️ Academical Success
 
+- **Recipient of Full Academic Scholarship with Stipend**  
+  *Issued by Bilkent University · September 2022*  
+  Awarded a prestigious full academic scholarship from Bilkent University, covering my entire undergraduate program along with a stipend to support living expenses.  
+
+- **Current CCGPA: 3.81**
+
+- **National University Exam Top Percentile Achiever**  
+  *Issued by Turkish Republic The Measuring, Selection and Placement Center (ÖSYM) · June 2022*  
+  Ranked **7068th out of 3,527,463 participants** in the highly competitive National University Exam (Math and Science category), placing me in the **top 0.02% nationwide**.
+
+---
+  
+#### **Professional Certificates**
+
+- **Meta Certified Digital Marketing Associate**  
+  *Certification successfully passed | CERTIFIED FOR 2 YEARS FROM META*
+
+- **Google Data Analytics Professional Certificate**  
+  *Comprising 8 Certificate Courses | 8 months program*  
+
+- **Meta Marketing Analytics Professional Certificate**  
+  *Comprising 5 Certificate Courses | 3 months program*
+
+- **CS50x**  
+  *Introduction to Computer Science by Harvard University 
+
+- **CS50p**  
+  *Programming with Python by Harvard University
+
+- **Google Digital Marketing E-commerce Professional Certificate**  
+  *Comprising 7 Certificate Courses | 6 months program*  
+
+- **Meta Social Media Marketing Professional Certificate**  
+  *Comprising 6 Certificate Courses | 4 months program*  
+
+---
 
 ### CS50x,CS50w and Final Projects
 
@@ -52,11 +91,6 @@ Successfully completed CS50x & CS50p from Harvard University, featuring two fina
 
 - **2,175+ commits** demonstrating proficiency in C, SQL, HTML, CSS, JavaScript, Flask, Jinja2, Python, and more.  
   [CS50 Achievements](#)
-
----
-
-### 🏆 Achievement Highlights
-
 
 ---
 
