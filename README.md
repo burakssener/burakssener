@@ -28,6 +28,7 @@ const skills = {
         'Email marketing flows and campaign optimization'
     ]
 };
+```
 ## 🎖️ Leadership & Achievements
 
 ### Entrepreneurial Success
