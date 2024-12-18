@@ -1,6 +1,6 @@
 # Burak Sener
 
-> 5-Figure Entrepreneur | 3.80+ CGPA Software Engineering Student | $50,000+ Revenue Generated in 2024 | Top 0.02% in University Entrance Exam 
+> 5-Figure Entrepreneur | $50,000+ Revenue Generated in 2024 | 3.80+ CGPA Software Engineering Student | Top 0.02% in University Entrance Exam 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/burakssener/)
 [![Website](https://img.shields.io/badge/Portfolio-Explore-green)](https://buraksener.com)
