@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Mission
-Combining software engineering expertise, AI innovation, and organic marketing strategies to build scalable and impactful solutions. Passionate about creating meaningful products, sharing knowledge, and inspiring others to achieve entrepreneurial success.
+Using software engineering, AI, and marketing skills to create impactful solutions for customers and grow businesses. Focused on developing products that address people's greatest needs and desires, pushing boundaries, and inspiring others to achieve entrepreneurial success.
 
 ---
 
