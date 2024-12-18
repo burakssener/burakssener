@@ -29,9 +29,8 @@ const skills = {
     ]
 };
 ```
-## 🎖️ Leadership & Achievements
 
-### Entrepreneurial Success
+### 🎖️ Entrepreneurial Success
 - Built and scaled a **5-figure e-commerce brand**, generating **$50,000+ in revenue in 2024**.
 - Achieved over **40 million views** in 2024, learning to scale and optimize brand performance.
 - Operated independently with **no capital support**, leveraging a university scholarship earned as a **top 0.02% YKS percentile achiever**.
@@ -39,7 +38,9 @@ const skills = {
 
 
 
-### CS50x and CS50w Projects
+### CS50x,CS50w and Final Projects
+
+Successfully completed CS50x & CS50p from Harvard University, featuring two final projects and mastering nearly a hundred labs and problem sets:
 
 - **Dynamic Full-Stack Social Media App** 🌐  
   A feature-rich app using HTML, CSS, Bootstrap, Python, Flask, Jinja2, SQLite3.  
@@ -47,20 +48,21 @@ const skills = {
 
 - **Study Management App** 📚🎶  
   An intelligent app built in Python with advanced time allocation and music integration.  
-  [GitHub Project](#)  
+  [GitHub Project](#)
+
+- **2,175+ commits** demonstrating proficiency in C, SQL, HTML, CSS, JavaScript, Flask, Jinja2, Python, and more.  
+  [CS50 Achievements](#)
 
 ---
 
 ### 🏆 Achievement Highlights
-- **2,175+ commits** demonstrating proficiency in C, SQL, HTML, CSS, JavaScript, Flask, Jinja2, Python, and more.  
-  [CS50 Achievements](#)
+
 
 ---
 
 ## 🎯 Professional Goals
 - Advance in software development roles to create impactful and scalable tech solutions.
 - Build a **7-figure tech company** by combining technical expertise with entrepreneurial vision.
-- Continue exploring AI innovations and developing transformative products.
 
 ---
 
