@@ -30,8 +30,8 @@ const skills = {
 
 - 🚀 Built and scaled a **5-figure e-commerce brand**, generating **$50,000+ in revenue in 2024**.
 - 📊 Achieved over **40 million views** in 2024, learning to scale and optimize brand performance.
-- 🏆 Operated independently with **no capital support**, leveraging a university scholarship earned as a **top 0.02% YKS percentile achiever**.
-- ⏱️ Dedicated over **1,000 hours** to achieving academic and entrepreneurial milestones.
+- 🏆 Operated independently with **no capital support**, leveraging a **Full Academic Scholarship with Stipend** earned as a capital.
+- ⏱️ Dedicated over **1,000+ hours** to entrepreneurial milestones.
 
 ---
 
@@ -46,6 +46,23 @@ const skills = {
 - **📈 National University Exam Top Percentile Achiever**  
   *Issued by Turkish Republic The Measuring, Selection and Placement Center (ÖSYM) · June 2022*  
   Ranked **7068th out of 3,527,463 participants** in the highly competitive National University Exam (Math and Science category), placing me in the **top 0.02% nationwide**.
+
+### 🖥️ CS50x, CS50p, and Final Projects
+
+Successfully completed CS50x & CS50p from Harvard University, featuring two final projects and mastering nearly a hundred labs and problem sets:
+
+- **🌐 Dynamic Full-Stack Social Media App**  
+  A feature-rich app using HTML, CSS, Bootstrap, Python, Flask, Jinja2, SQLite3.  
+  [GitHub Project]('https://github.com/burakssener/Kesis')  
+
+- **📚 Study Management App**  
+  An intelligent app built in Python with advanced time allocation and music integration.  
+  [GitHub Project](#)
+
+- 🏆 **2,175+ commits** demonstrating proficiency in C, SQL, HTML, CSS, JavaScript, Flask, Jinja2, Python, and more.  
+  [GitHub Repository]('https://github.com/burakssener/CS50X-CS50P')
+
+---
 
 ## **🏅 Professional Certificates**
 
@@ -72,22 +89,6 @@ const skills = {
 
 ---
 
-### 🖥️ CS50x, CS50p, and Final Projects
-
-Successfully completed CS50x & CS50p from Harvard University, featuring two final projects and mastering nearly a hundred labs and problem sets:
-
-- **🌐 Dynamic Full-Stack Social Media App**  
-  A feature-rich app using HTML, CSS, Bootstrap, Python, Flask, Jinja2, SQLite3.  
-  [GitHub Project](#)  
-
-- **📚 Study Management App**  
-  An intelligent app built in Python with advanced time allocation and music integration.  
-  [GitHub Project](#)
-
-- 🏆 **2,175+ commits** demonstrating proficiency in C, SQL, HTML, CSS, JavaScript, Flask, Jinja2, Python, and more.  
-  [CS50 Achievements](#)
-
----
 
 ## 🎯 Professional Goals
 - 🚀 Advance in software development roles to create impactful and scalable tech solutions.
