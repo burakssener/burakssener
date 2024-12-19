@@ -53,14 +53,14 @@ Successfully completed CS50x & CS50p from Harvard University, featuring two fina
 
 - **🌐 Dynamic Full-Stack Social Media App**  
   A feature-rich app using HTML, CSS, Bootstrap, Python, Flask, Jinja2, SQLite3.  
-  [GitHub Project]('https://github.com/burakssener/Kesis')  
+  [🌟 Explore the Project](https://github.com/burakssener/Kesis)
 
 - **📚 Study Management App**  
   An intelligent app built in Python with advanced time allocation and music integration.  
-  [GitHub Project](#)
+  [✨ Take a Look](#)
 
 - 🏆 **2,175+ commits** demonstrating proficiency in C, SQL, HTML, CSS, JavaScript, Flask, Jinja2, Python, and more.  
-  [GitHub Repository]('https://github.com/burakssener/CS50X-CS50P')
+  [🚀 View Full GitHub Repository](https://github.com/burakssener/CS50X-CS50P)
 
 ---
 
