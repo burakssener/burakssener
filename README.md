@@ -64,10 +64,10 @@ const skills = {
 - **Meta Marketing Analytics Professional Certificate**  
   *Comprising 5 Certificate Courses | 3-month program*
 
-- **CS50x**  
+- **HarvardX: CS50's Introduction to Computer Science**  
   *Introduction to Computer Science by Harvard University*
 
-- **CS50p**  
+- **CS50's Introduction to Programming with Python**  
   *Programming with Python by Harvard University*
 
 ---
