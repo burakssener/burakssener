@@ -47,6 +47,8 @@ const skills = {
   *Issued by Turkish Republic The Measuring, Selection and Placement Center (ÖSYM) · June 2022*  
   Ranked **7068th out of 3,527,463 participants** in the highly competitive National University Exam (Math and Science category), placing me in the **top 0.02% nationwide**.
 
+---
+
 ### 🖥️ CS50x, CS50p, and Final Projects
 
 Successfully completed CS50x & CS50p from Harvard University, featuring two final projects and mastering nearly a hundred labs and problem sets:
