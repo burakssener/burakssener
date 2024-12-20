@@ -59,7 +59,7 @@ Successfully completed CS50x & CS50p from Harvard University, featuring two fina
 
 - **📚 Study Management App**  
   An intelligent app built in Python with advanced time allocation and music integration.  
-  [✨ Take a Look](#)
+  [✨ Take a Look](https://github.com/burakssener/Life-Manager)
 
 - 🏆 **2,175+ commits** demonstrating proficiency in C, SQL, HTML, CSS, JavaScript, Flask, Jinja2, Python, and more.  
   [🚀 View Full GitHub Repository](https://github.com/burakssener/CS50X-CS50P)
