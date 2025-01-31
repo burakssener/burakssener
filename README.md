@@ -41,7 +41,7 @@ const skills = {
   *Issued by Bilkent University · September 2022*  
   Awarded a prestigious full academic scholarship from Bilkent University, covering my entire undergraduate program along with a stipend to support living expenses.  
 
-- 📚 **Current CCGPA**: 3.81  
+- 📚 **Current CCGPA**: 3.83
 
 - **📈 National University Exam Top Percentile Achiever**  
   *Issued by Turkish Republic The Measuring, Selection and Placement Center (ÖSYM) · June 2022*  
